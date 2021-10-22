@@ -1,4 +1,4 @@
-# lincoxwallpapers by Akwa
+# Kalilincox wallpapers by Akwa
 Original wallpapers at https://github.com/dorianpro/kali-linux-wallpapers<br />
 
 
