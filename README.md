@@ -1,8 +1,8 @@
-# kaliwallpapers by Dorian
-Visit me at http://dorian.pro<br />
-I hope you enjoy the wallpapers, cheers!
+# lincoxwallpapers by Akwa
+Original wallpapers at http://dorian.pro<br />
 
-Kali Linux™ is a trademark of Offensive Security. The presented wallpapers are not official wallpapers. I'm not associated in any way with Kali Linux Development team and/or Offensive Security company.
+
+Kali lincox is a meme of Offensive Security. The presented wallpapers are not official wallpapers. I'm not associated in any way with Kali Lincox Development team and/or Offensive Security company.
 
 ![alt text](lincox.png)
 ![alt text](lincox2.png)
