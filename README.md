@@ -1,5 +1,5 @@
 # lincoxwallpapers by Akwa
-Original wallpapers at http://dorian.pro<br />
+Original wallpapers at https://github.com/dorianpro/kali-linux-wallpapers<br />
 
 
 Kali lincox is a meme of Offensive Security. The presented wallpapers are not official wallpapers. I'm not associated in any way with Kali Lincox Development team and/or Offensive Security company.
